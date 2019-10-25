@@ -1,0 +1,9 @@
+<div class="row">
+    <div class="col s4" *ngFor="let filme of filmes">
+        <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+                    <a [routerLink]="['', filme.id]"><img class="responsive-img" src="{{ filme?.poster }}"></a>
+            </div>
+        </div>          
+    </div>
+</div>

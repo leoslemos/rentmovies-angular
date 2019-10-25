@@ -1,0 +1,39 @@
+<a routerLink="">
+    <i class="material-icons">
+        keyboard_arrow_left
+    </i>
+    <span>Voltar</span>
+</a>
+
+<div class="col s12">
+    <h4 class="header">{{filme?.nome}}</h4>
+    <div class="card horizontal">
+        <div class="card-image poster">
+            <img class="responsive-img" src="{{ filme?.poster }}">
+        </div>
+        <div class="card-stacked">
+            <div class="card-content">
+                <div class="row">
+                    <div class="col s4">
+                        <label>Ano</label>
+                        <p>{{filme?.ano}}</p>
+                    </div>                    
+                    <div class="col s4">
+                        <label>Diretor</label>
+                        <p>{{filme?.diretor}}</p>
+                    </div>                                                
+                    <div class="col ">
+                        <label>Genero</label>
+                        <p>{{filme?.genero}}</p>
+                    </div>            
+                </div>
+                <div class="row">
+                    <div class="col s12">
+                        <label>Sinopse</label>
+                        <p>{{filme?.descricao}}</p>
+                    </div>
+                </div>                        
+            </div>
+        </div>
+    </div>
+</div>

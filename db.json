@@ -1,0 +1,60 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "MALÉVOLA - DONA DO MAL",
+      "ano": 2019,
+      "diretor": "Joachim Rønning",
+      "genero": "Fantasia, Aventura",
+      "descricao": "Cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.",
+      "poster": "http://br.web.img2.acsta.net/r_1920_1080/pictures/19/05/17/09/30/3447200.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "CORINGA",
+      "ano": 2019,
+      "diretor": "Todd Phillips",
+      "genero": "Drama",
+      "descricao": "Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.",
+      "poster": "https://i.pinimg.com/originals/71/bc/f2/71bcf272e6108a247c38d98fb3f91dca.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "ANGRY BIRDS 2 - O FILME",
+      "ano": 2019,
+      "diretor": "Thurop Van Orman",
+      "genero": "Animação, Comédia",
+      "descricao": "Red e seus amigos dedicam a vida a proteger a Ilha dos Pássaros dos contantes ataques vindos da Ilha dos Porcos. Entretanto, quanto uma terceira ilha surge e começa a atacá-los, Leonardo, o rei dos porcos, decide procurar seu arquinimigo em busca de uma trégua para que, juntos, possam enfrentar a ameaça em comum.",
+      "poster": "http://br.web.img3.acsta.net/r_1280_720/pictures/19/03/27/16/12/1090847.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "PROJETO GEMINI",
+      "ano": 2019,
+      "diretor": "Ang Lee",
+      "genero": "Ação, Ficção Científica",
+      "descricao": "Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.",
+      "poster": "http://br.web.img3.acsta.net/r_1280_720/pictures/19/04/23/16/16/5129967.jpg"
+    },
+    
+    {
+      "id": 6,
+      "nome": "A LUZ NO FIM DO MUNDO",
+      "ano": 2019,
+      "diretor": "Casey Affleck",
+      "genero": "Drama, Ficção Científica",
+      "descricao": "Depois do mundo ser atingido por uma pandemia, um pai (Casey Affleck) vive recluso na floresta com a filha adolescente Rag (Anna Pniowsky). Eles são muito ligados e o pai precisa lutar para proteger a menina depois que um homem misterioso aparece.",
+      "poster": "http://br.web.img3.acsta.net/r_1280_720/pictures/19/08/13/16/21/0752555.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "O ENIGMA DA ROSA",
+      "ano": 2019,
+      "diretor": "Josué Ramos",
+      "genero": "Suspense",
+      "descricao": "Sara Castro (Patricia Olmedo), a filha de Oliver (Pedro Casablanc) e Julia (Elisabet Gelabert), desaparece sem deixar rastros. Os dias passam sem que eles tenham nenhuma notícia sobre a garota. Porém, em uma manhã, a família recebe uma carta de alguém que afirma ter capturado Sara e deseja falar com eles pessoalmente.",
+      "poster": "http://br.web.img3.acsta.net/r_1280_720/pictures/19/09/24/23/03/2165109.jpg"
+    }
+
+  ]
+}
